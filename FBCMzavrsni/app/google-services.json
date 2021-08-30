@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274590192260",
+    "project_id": "fbcm-zavrsni",
+    "storage_bucket": "fbcm-zavrsni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274590192260:android:dbaa2aed67ff35f8e0a8d1",
+        "android_client_info": {
+          "package_name": "com.karlo.zavrsni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274590192260-5mefemj7ovrffhj9oitf5uvd7lhg9pgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTnujdXAFsDVAXG0gxUmA_Iegpmucmh0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274590192260-5mefemj7ovrffhj9oitf5uvd7lhg9pgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
